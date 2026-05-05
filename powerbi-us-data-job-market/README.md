@@ -12,7 +12,7 @@ To identify which data roles offer the best opportunities based on salary and de
 - DAX
 
 ## 🔍 Key Insights
-- Data Scientist roles offer the highest average salary (~$127K)
+- Data Scientist roles offer the highest average salary ($127K)
 - Job opportunities are concentrated in San Francisco and New York
 - Industry plays a major role in salary variation
 
