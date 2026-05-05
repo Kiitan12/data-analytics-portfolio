@@ -21,7 +21,7 @@ To identify which data roles offer the best opportunities based on salary and de
 - Dataset (CSV)
 
 ## 📸 Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.jpg)
 
 ## 🚀 What I Learned
 - Data cleaning and transformation using Power Query
